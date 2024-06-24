@@ -1,5 +1,5 @@
 # CryptoClustering
-<<<<<<< HEAD
+
 ## Cryptocurrency Clustering Analysis
 
 # Overview
@@ -40,5 +40,3 @@ Launch Jupyter Notebook and open Crypto_Clustering.ipynb to view and run the ana
 
 # Conclusion
 The analysis demonstrates how PCA can enhance the clustering process by reducing dimensionality, leading to more distinct and compact clusters. The results from both the original and PCA-transformed data are compared to understand the benefits of using fewer features in clustering.
-=======
->>>>>>> 4691f3ab150bdba7ceb04259ed7ce7aeca8cb438
