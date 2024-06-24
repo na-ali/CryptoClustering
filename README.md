@@ -1,6 +1,4 @@
-# CryptoClustering
-
-## Cryptocurrency Clustering Analysis
+# Cryptocurrency Clustering Analysis
 
 # Overview
 This project analyzes and clusters cryptocurrency market data using K-Means clustering. The analysis includes both the original data with all features and a reduced dataset using Principal Component Analysis (PCA) to understand the impact of dimensionality reduction on clustering results.
